@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "El viaje mazo chill"
+    },
+    {
+        "id": 2,
+        "date": "2017-01-02",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 3,
+        "date": "2017-01-03",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 4,
+        "date": "2017-01-04",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 5,
+        "date": "2017-01-05",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 6,
+        "date": "2017-01-06",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 7,
+        "date": "2017-01-07",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 8,
+        "date": "2017-01-08",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 9,
+        "date": "2017-01-09",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "El viaje mazo guay"
+    },
+    {
+        "id": 10,
+        "date": "2017-01-10",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "El viaje mazo guay"
+    }
+]
